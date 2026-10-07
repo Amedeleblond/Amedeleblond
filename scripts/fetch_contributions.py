@@ -2,10 +2,10 @@ import os
 import json
 import requests
 from bs4 import BeautifulSoup
-    
+
 # Remplacez par votre nom d'utilisateur si nécessaire, mais ici c'est déjà configuré
 USERNAME = "Amedeleblond"
-URL = f"https://github.com/users/j/contributions"
+URL = f"https://github.com/users/{USERNAME}/contributions"
 
 def fetch_data():
     print(f"Récupération des données pour {USERNAME}...")
