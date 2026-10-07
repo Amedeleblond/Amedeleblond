@@ -45,7 +45,7 @@
     <rect x="65" y="0" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 0.2s forwards;" />
     <rect x="65" y="13" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 0.24000000000000002s forwards;" />
     <rect x="65" y="26" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 0.28s forwards;" />
-    <rect x="65" y="39" width="10" height="10" rx="2" fill="#39d353" style="opacity:0; animation: slideDown 0.5s ease-out 0.32s forwards;" />
+    <rect x="65" y="39" width="10" height="10" rx="2" fill="#26a641" style="opacity:0; animation: slideDown 0.5s ease-out 0.32s forwards;" />
     <rect x="65" y="52" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 0.36s forwards;" />
     <rect x="65" y="65" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 0.4s forwards;" />
     <rect x="65" y="78" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 0.44s forwards;" />
@@ -111,7 +111,7 @@
     <rect x="182" y="39" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 0.68s forwards;" />
     <rect x="182" y="52" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 0.7200000000000001s forwards;" />
     <rect x="182" y="65" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 0.76s forwards;" />
-    <rect x="182" y="78" width="10" height="10" rx="2" fill="#26a641" style="opacity:0; animation: slideDown 0.5s ease-out 0.8s forwards;" />
+    <rect x="182" y="78" width="10" height="10" rx="2" fill="#006d32" style="opacity:0; animation: slideDown 0.5s ease-out 0.8s forwards;" />
     <rect x="195" y="0" width="10" height="10" rx="2" fill="#39d353" style="opacity:0; animation: slideDown 0.5s ease-out 0.6s forwards;" />
     <rect x="195" y="13" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 0.64s forwards;" />
     <rect x="195" y="26" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 0.6799999999999999s forwards;" />
@@ -164,7 +164,7 @@
     <rect x="286" y="0" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 0.88s forwards;" />
     <rect x="286" y="13" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 0.92s forwards;" />
     <rect x="286" y="26" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 0.96s forwards;" />
-    <rect x="286" y="39" width="10" height="10" rx="2" fill="#39d353" style="opacity:0; animation: slideDown 0.5s ease-out 1.0s forwards;" />
+    <rect x="286" y="39" width="10" height="10" rx="2" fill="#26a641" style="opacity:0; animation: slideDown 0.5s ease-out 1.0s forwards;" />
     <rect x="286" y="52" width="10" height="10" rx="2" fill="#39d353" style="opacity:0; animation: slideDown 0.5s ease-out 1.04s forwards;" />
     <rect x="286" y="65" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.08s forwards;" />
     <rect x="286" y="78" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.12s forwards;" />
@@ -216,7 +216,7 @@
     <rect x="377" y="39" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.2799999999999998s forwards;" />
     <rect x="377" y="52" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.3199999999999998s forwards;" />
     <rect x="377" y="65" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.3599999999999999s forwards;" />
-    <rect x="377" y="78" width="10" height="10" rx="2" fill="#26a641" style="opacity:0; animation: slideDown 0.5s ease-out 1.4s forwards;" />
+    <rect x="377" y="78" width="10" height="10" rx="2" fill="#006d32" style="opacity:0; animation: slideDown 0.5s ease-out 1.4s forwards;" />
     <rect x="390" y="0" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.2s forwards;" />
     <rect x="390" y="13" width="10" height="10" rx="2" fill="#39d353" style="opacity:0; animation: slideDown 0.5s ease-out 1.24s forwards;" />
     <rect x="390" y="26" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.28s forwards;" />
@@ -249,7 +249,7 @@
     <rect x="442" y="13" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.4000000000000001s forwards;" />
     <rect x="442" y="26" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.4400000000000002s forwards;" />
     <rect x="442" y="39" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.48s forwards;" />
-    <rect x="442" y="52" width="10" height="10" rx="2" fill="#39d353" style="opacity:0; animation: slideDown 0.5s ease-out 1.52s forwards;" />
+    <rect x="442" y="52" width="10" height="10" rx="2" fill="#26a641" style="opacity:0; animation: slideDown 0.5s ease-out 1.52s forwards;" />
     <rect x="442" y="65" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.56s forwards;" />
     <rect x="442" y="78" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.6s forwards;" />
     <rect x="455" y="0" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.4000000000000001s forwards;" />
@@ -321,7 +321,7 @@
     <rect x="572" y="39" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.88s forwards;" />
     <rect x="572" y="52" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.92s forwards;" />
     <rect x="572" y="65" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.96s forwards;" />
-    <rect x="572" y="78" width="10" height="10" rx="2" fill="#26a641" style="opacity:0; animation: slideDown 0.5s ease-out 2.0s forwards;" />
+    <rect x="572" y="78" width="10" height="10" rx="2" fill="#006d32" style="opacity:0; animation: slideDown 0.5s ease-out 2.0s forwards;" />
     <rect x="585" y="0" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.8s forwards;" />
     <rect x="585" y="13" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.84s forwards;" />
     <rect x="585" y="26" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 1.8800000000000001s forwards;" />
@@ -373,7 +373,7 @@
     <rect x="663" y="78" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 2.2800000000000002s forwards;" />
     <rect x="676" y="0" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 2.08s forwards;" />
     <rect x="676" y="13" width="10" height="10" rx="2" fill="#161b22" style="opacity:0; animation: slideDown 0.5s ease-out 2.12s forwards;" />
-    <rect x="676" y="26" width="10" height="10" rx="2" fill="#39d353" style="opacity:0; animation: slideDown 0.5s ease-out 2.16s forwards;" />
+    <rect x="676" y="26" width="10" height="10" rx="2" fill="#26a641" style="opacity:0; animation: slideDown 0.5s ease-out 2.16s forwards;" />
     <rect x="676" y="39" width="10" height="10" rx="2" fill="#39d353" style="opacity:0; animation: slideDown 0.5s ease-out 2.2s forwards;" />
   </g>
 </svg>
