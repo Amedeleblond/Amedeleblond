@@ -7,7 +7,7 @@ def generate_info_card():
     title = "amedeleblond@github ~ $ neofetch"
     rows = [
         ("Role",  "Software Engineering student @ Atlas Univ"),
-        ("Focus", "ASP.NET Core, Entity Framework & Cyber Security"),
+        ("Focus", "ASP.NET Core, Entity Framework &amp; Cyber Security"),
         ("Stack", "C#, Python, Java, React, Node.js, Docker"),
         ("Quirk", "I burst out laughing when faced with difficulties")
     ]
