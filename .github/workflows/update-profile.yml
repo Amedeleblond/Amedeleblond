@@ -1,0 +1,46 @@
+name: Generate Animated Profile
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # S'exécute tous les jours à 02:00 UTC
+  workflow_dispatch: # Permet de lancer l'action manuellement
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Generate Neofetch Card
+        run: python scripts/make_info_card.py
+
+      - name: Generate ASCII Portrait
+        run: |
+          python scripts/prep_photo.py photo.jpg
+          python scripts/make_ascii_svg.py
+
+      - name: Generate Heatmap
+        run: |
+          python scripts/fetch_contributions.py
+          python scripts/render_heatmap_svg.py
+
+      - name: Commit and Push SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update profile SVGs [skip ci]"
+          file_pattern: "*.svg data/*.json source-prepped.png"
