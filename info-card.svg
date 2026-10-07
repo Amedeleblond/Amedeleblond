@@ -1,0 +1,38 @@
+<svg width="490" height="220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font-family: "Courier New", monospace; font-size: 14px; fill: #c9d1d9; }
+    .key { fill: #e36209; font-weight: bold; }
+    .title { fill: #e36209; font-weight: bold; }
+    @keyframes print {
+      0% { opacity: 0; transform: translateX(-10px); }
+      100% { opacity: 1; transform: translateX(0); }
+    }
+  </style>
+  <rect width="100%" height="100%" fill="#0d1117" rx="8" />
+  <text x="20" y="40" class="text title">amedeleblond@github ~ $ neofetch</text>
+  <line x1="20" y1="50" x2="470" y2="50" stroke="#30363d" stroke-width="1" />
+
+        <g style="opacity: 0; animation: print 0.4s ease-out 0.3s forwards;">
+            <text x="20" y="80" class="text key">Role</text>
+            <text x="90" y="80" class="text"> Software Engineering student @ Atlas Univ</text>
+        </g>
+        
+
+        <g style="opacity: 0; animation: print 0.4s ease-out 0.5s forwards;">
+            <text x="20" y="110" class="text key">Focus</text>
+            <text x="90" y="110" class="text"> ASP.NET Core, Entity Framework & Cyber Security</text>
+        </g>
+        
+
+        <g style="opacity: 0; animation: print 0.4s ease-out 0.7s forwards;">
+            <text x="20" y="140" class="text key">Stack</text>
+            <text x="90" y="140" class="text"> C#, Python, Java, React, Node.js, Docker</text>
+        </g>
+        
+
+        <g style="opacity: 0; animation: print 0.4s ease-out 0.8999999999999999s forwards;">
+            <text x="20" y="170" class="text key">Quirk</text>
+            <text x="90" y="170" class="text"> I burst out laughing when faced with difficulties</text>
+        </g>
+        
+</svg>
