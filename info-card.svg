@@ -20,7 +20,7 @@
 
         <g style="opacity: 0; animation: print 0.4s ease-out 0.5s forwards;">
             <text x="20" y="110" class="text key">Focus</text>
-            <text x="90" y="110" class="text"> ASP.NET Core, Entity Framework & Cyber Security</text>
+            <text x="90" y="110" class="text"> ASP.NET Core, Entity Framework &amp; Cyber Security</text>
         </g>
         
 
