@@ -35,7 +35,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="16.6" clip-path="url(#clip3)">                       ... .+sss#######scssss##ss#ss####sssssss####ss*+=:.                          </text>
+    <text x="5" y="16.6" clip-path="url(#clip3)">                      .... .+sss#######scssss##ss#ss####sssssss####ss*+=:.                          </text>
 
         <clipPath id="clip4">
             <rect x="0" y="16.6" width="0" height="6.15">
@@ -43,7 +43,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="20.75" clip-path="url(#clip4)">                      `*cscccs#####ss##s##ssssssssss#ss#####sscssssssccsc*+=:`                      </text>
+    <text x="5" y="20.75" clip-path="url(#clip4)">                      `*cscccs#####ss##s##ssss#sssss#ss#s###sscssssssccsc*+=:`                      </text>
 
         <clipPath id="clip5">
             <rect x="0" y="20.75" width="0" height="6.15">
@@ -75,7 +75,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="37.35" clip-path="url(#clip8)">              =s##s##################%%###ssccccccc*****css###%%%%%#############sc-.                </text>
+    <text x="5" y="37.35" clip-path="url(#clip8)">              =s##s#################%%%###ssccccccc*****css###%%%%%#############sc-.                </text>
 
         <clipPath id="clip9">
             <rect x="0" y="37.35" width="0" height="6.15">
@@ -83,7 +83,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="41.5" clip-path="url(#clip9)">            `*#################%%###ssc**+++++===----:--==++++**ccs#%%############sc+:.             </text>
+    <text x="5" y="41.5" clip-path="url(#clip9)">            `*#################%%%##ssc**+++++===----:--==++++**ccs#%%############sc+:.             </text>
 
         <clipPath id="clip10">
             <rect x="0" y="41.50000000000001" width="0" height="6.15">
@@ -91,7 +91,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="45.650000000000006" clip-path="url(#clip10)">          .-s%#s############%#ssc*+++====-----::````````::--======++*s###%###########+`             </text>
+    <text x="5" y="45.650000000000006" clip-path="url(#clip10)">          .-s%s#############%#ssc*+++====-----::````````::--======++*s###%###########+`             </text>
 
         <clipPath id="clip11">
             <rect x="0" y="45.650000000000006" width="0" height="6.15">
@@ -107,7 +107,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="53.95" clip-path="url(#clip12)">          `s###########c**+++====--::::-=-:--::::-:`:::::::::-:--===+++++++=*#%#######c+-           </text>
+    <text x="5" y="53.95" clip-path="url(#clip12)">          `s###########c**+++====--::::-=-:--::::-:`::::::::--:--===+++++++=c#%#######c+-           </text>
 
         <clipPath id="clip13">
             <rect x="0" y="53.95000000000001" width="0" height="6.15">
@@ -115,7 +115,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="58.10000000000001" clip-path="url(#clip13)">          :#######%#s*++++*+++++=-=----=======---------=======--:::-=++*++=-+c#%#######*`           </text>
+    <text x="5" y="58.10000000000001" clip-path="url(#clip13)">          :#######%#s*++++*+++++=-=----=======---------=======--::--=++*++==+c#%#######*`           </text>
 
         <clipPath id="clip14">
             <rect x="0" y="58.10000000000001" width="0" height="6.15">
@@ -131,7 +131,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="66.4" clip-path="url(#clip15)">          =######%c--++*++***cccccccc**c******++***************++++===+++=++++*ccs#####`            </text>
+    <text x="5" y="66.4" clip-path="url(#clip15)">          =######%c--++*++***cccccccc**c******+****************++++===+++=++++*ccs##s#s`            </text>
 
         <clipPath id="clip16">
             <rect x="0" y="66.4" width="0" height="6.15">
@@ -147,7 +147,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="74.7" clip-path="url(#clip17)">         .s###scc+=-=+++++=++=+++=======+==+++*++++++++++====---==========++===++**c###-            </text>
+    <text x="5" y="74.7" clip-path="url(#clip17)">         .s###scc+=-=+++++==+=+++=======+==+++*++++++++++====---==========++===++**c###-            </text>
 
         <clipPath id="clip18">
             <rect x="0" y="74.7" width="0" height="6.15">
@@ -163,7 +163,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="83.0" clip-path="url(#clip19)">         =%#s*cc*=+======---::``..........````:`:```````:``````````````::::-----==++*s#`            </text>
+    <text x="5" y="83.0" clip-path="url(#clip19)">         =%#s*cc*=+======---::``..........````:`:``````````````````````:::------==++*s#`            </text>
 
         <clipPath id="clip20">
             <rect x="0" y="83.0" width="0" height="6.15">
@@ -171,7 +171,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="87.15" clip-path="url(#clip20)">         *%s*cc*+++==--------==-=-::-----:::``````````:--=+**csssscc*c*+===::::---+++cs.            </text>
+    <text x="5" y="87.15" clip-path="url(#clip20)">         *%s*cc*+++==--------==-=-::----::::``````````:--=+**csssscc*c*+===::::---+++cs.            </text>
 
         <clipPath id="clip21">
             <rect x="0" y="87.15" width="0" height="6.15">
@@ -179,7 +179,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="91.30000000000001" clip-path="url(#clip21)">         c#c**++===--:+ssss##%%%%####sscc*+=-----::::-=++*sss#####%#%##sccc-`-::---=+*s`            </text>
+    <text x="5" y="91.30000000000001" clip-path="url(#clip21)">         c#c**++===--:+sssss#%%%%####sscc*+=-----::::-=++*sss#####%#%##sccc-`-::---=+*s`            </text>
 
         <clipPath id="clip22">
             <rect x="0" y="91.3" width="0" height="6.15">
@@ -187,7 +187,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="95.45" clip-path="url(#clip22)">         s#c*++++==++-*#############ssscscc*++=========***cccscsssscc****+=-=++-:::-*cc.            </text>
+    <text x="5" y="95.45" clip-path="url(#clip22)">         s#c*++++==++-*#############ssscscc*++========+***cccscsssscc****+=-=++-:::-*cc.            </text>
 
         <clipPath id="clip23">
             <rect x="0" y="95.45" width="0" height="6.15">
@@ -195,7 +195,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="99.60000000000001" clip-path="url(#clip23)">         *sc*===-+csc******+++*cccssssssssscc**++=+++++*cccccc*++=--:::``:-===++-:::=*=             </text>
+    <text x="5" y="99.60000000000001" clip-path="url(#clip23)">         *sc*====+csc******+++*cccssssssssscc**++=+++++*cccccc*++=--:::``:-===++-:::=*=             </text>
 
         <clipPath id="clip24">
             <rect x="0" y="99.60000000000001" width="0" height="6.15">
@@ -219,7 +219,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="112.05000000000001" clip-path="url(#clip26)">         `*+c*+cs**csscss*c@@%#%#=+****cccc**s-+*ccs*+*:=*csscc+=s%ss#s-=c#ssc*+=*#%#%*.            </text>
+    <text x="5" y="112.05000000000001" clip-path="url(#clip26)">         `*+c*+cs**csscss*c@%%#%#=+****cccc**s-+*ccs*+*:=*csscc+=s%ss#s-=c#ssc*+=*#%#%*.            </text>
 
         <clipPath id="clip27">
             <rect x="0" y="112.05000000000001" width="0" height="6.15">
@@ -227,7 +227,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="116.20000000000002" clip-path="url(#clip27)">     .....s#*c%@s+++*css+::+cscc+`:++***+==++s%c--==s%=.`-cs++==-=*cc*-`=*##s**++=#%s+:``:--.       </text>
+    <text x="5" y="116.20000000000002" clip-path="url(#clip27)">     .....s#*c%@s+++*css+::+cscc+`:++***+==++s%c--==s%=.`-cs++==-=csc*-:=*##s**++=#%s+:``:--.       </text>
 
         <clipPath id="clip28">
             <rect x="0" y="116.2" width="0" height="6.15">
@@ -251,7 +251,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="128.65" clip-path="url(#clip30)">   `###c*ccc+++#c===--:::---==-----------=c%s=`.   .`=s%=`:::````:--:--::`````:::##--*+--c%c.       </text>
+    <text x="5" y="128.65" clip-path="url(#clip30)">   `###c*ccc+++#c===--:::---==---------=-=c%s=`.   .`=s%=`:::````:--:--::`````:::##--*+--c%c.       </text>
 
         <clipPath id="clip31">
             <rect x="0" y="128.65" width="0" height="6.15">
@@ -267,7 +267,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="136.95000000000002" clip-path="url(#clip32)">    `sc+s##*++++cc+++++=====--::::----+csc=-::``````..`.-c+=-==+=====++=----===+s*===c%s=c=         </text>
+    <text x="5" y="136.95000000000002" clip-path="url(#clip32)">    `sc+s##*++++cc+++++=====--::::----+csc=-::``````..`.-c+=-==+==-==++=----===+s*===c%s=c=         </text>
 
         <clipPath id="clip33">
             <rect x="0" y="136.95000000000002" width="0" height="6.15">
@@ -275,7 +275,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="141.10000000000002" clip-path="url(#clip33)">     `s*+s#*++***cs*+++++========++++*c+-`:===-::--:::::..`-****++++++++===+==*c*++=*s*=**          </text>
+    <text x="5" y="141.10000000000002" clip-path="url(#clip33)">     `s*+s#*++***cs*+++++=+======++++*c+-`:===-::--:::::..`-****++++++++===+==*c*++=*s*=**          </text>
 
         <clipPath id="clip34">
             <rect x="0" y="141.1" width="0" height="6.15">
@@ -283,7 +283,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="145.25" clip-path="url(#clip34)">      -sc+*c+*ccccc*cc************++*c===*ccc*+++++==*cc*+--=******cccc******cc**+++*+=c*`          </text>
+    <text x="5" y="145.25" clip-path="url(#clip34)">      -sc+*c+*ccccc*cc************++*c===*ccc*+++++==*cc*+--=******cccc******c***+++*+=c*`          </text>
 
         <clipPath id="clip35">
             <rect x="0" y="145.25" width="0" height="6.15">
@@ -291,7 +291,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="149.4" clip-path="url(#clip35)">       =cc****ccccccccccc**cc****++++*ss###%%%#ccccc#%%%%%#c*****ccc****+*****c****+--+*-           </text>
+    <text x="5" y="149.4" clip-path="url(#clip35)">       =cc****ccccccccccc**cc****++++*ss###%%%#ccccc#%%%%%#c*****ccc**********c****+--+*-           </text>
 
         <clipPath id="clip36">
             <rect x="0" y="149.4" width="0" height="6.15">
@@ -307,7 +307,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="157.70000000000002" clip-path="url(#clip37)">         `::=ccccssssssssssccc*++++===++*ccccc****c*++==--::::::--====+****cccc***=..               </text>
+    <text x="5" y="157.70000000000002" clip-path="url(#clip37)">         `:`=ccccssssssssssccc*++++===++*cccc*****c*++==--::::::--====+****cccc***= .               </text>
 
         <clipPath id="clip38">
             <rect x="0" y="157.70000000000002" width="0" height="6.15">
@@ -331,7 +331,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="170.15" clip-path="url(#clip40)">             :cccssssssssssscccccccc**ccccccc**++=+*****cc*+===++===+*****ccccc**`                  </text>
+    <text x="5" y="170.15" clip-path="url(#clip40)">             -cccssssssssssscccccccc**ccccccc**++=+*****cc*+===++=+=+*****ccccc**`                  </text>
 
         <clipPath id="clip41">
             <rect x="0" y="170.15" width="0" height="6.15">
@@ -355,7 +355,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="182.60000000000002" clip-path="url(#clip43)">               .*scccccccssssssssccscc*+=-:````.`.``.``::=++++++*c**+*****ccsc:                     </text>
+    <text x="5" y="182.60000000000002" clip-path="url(#clip43)">               .*scccccccssssssssccscc*+=-:````.`.`````::=++++++*c**+*****ccsc:                     </text>
 
         <clipPath id="clip44">
             <rect x="0" y="182.60000000000002" width="0" height="6.15">
@@ -371,7 +371,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="190.9" clip-path="url(#clip45)">            `+s#%ccs#sssssssssssss#sssssss#s####ssss#ssscc************cccc+`                        </text>
+    <text x="5" y="190.9" clip-path="url(#clip45)">            `+s#%ccs#sssssssssssss#sssssss#s####ssss#ssscc************cccc+.                        </text>
 
         <clipPath id="clip46">
             <rect x="0" y="190.9" width="0" height="6.15">
@@ -395,7 +395,7 @@
             </rect>
         </clipPath>
         
-    <text x="5" y="203.35000000000002" clip-path="url(#clip48)">           +%###############ssscc****ccccccsc*****++=====------=+*cc*++c%#####%c                    </text>
+    <text x="5" y="203.35000000000002" clip-path="url(#clip48)">           +%###############ssscc****ccccccsc*****++=====------=+*cc*++c%#####%s                    </text>
 
         <clipPath id="clip49">
             <rect x="0" y="203.35000000000002" width="0" height="6.15">
